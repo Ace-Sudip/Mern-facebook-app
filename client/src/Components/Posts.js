@@ -110,7 +110,7 @@ function Posts() {
 <div className="row">
     <div className="col-12 mb-2 col-md-6">
         <div className="card">
-            <img className="card-img-top imageb" src="/chinesedrama.JPG" alt="Chinese drama thumbnail"></img>
+            <img className="card-img-top imageb" src="/chinesedrama.jpg" alt="Chinese drama thumbnail"></img>
             <div className="card-body">
                 <h5 className="card-title">List of Chinese dramas:</h5>
                 <a className="btn btn-success" data-toggle="collapse" href="#collapseExample5" role="button"
