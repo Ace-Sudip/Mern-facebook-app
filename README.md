@@ -1,11 +1,11 @@
-Facebook App
+Facebook App__
 
 A social media application built using the MERN stack (MongoDB, Express, React, Node.js).
 
-Features:
-User authentication and authorization
-Protected Routes
-Password Encryption
-Clean and User-friendly interface
+Features:__
+User authentication and authorization__
+Protected Routes__
+Password Encryption__
+Clean and User-friendly interface__
 
 Website Link: https://sudip-facebook.cyclic.app/
